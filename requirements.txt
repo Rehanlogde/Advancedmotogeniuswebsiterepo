@@ -15,6 +15,7 @@ cymem==2.0.11
 Django==5.2.4
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 greenlet==3.2.3
+gunicorn==23.0.0
 idna==3.10
 Jinja2==3.1.6
 langcodes==3.5.0
@@ -28,6 +29,7 @@ murmurhash==1.0.13
 numpy==2.3.2
 packaging==25.0
 preshed==3.0.10
+psycopg2-binary==2.9.10
 pycparser==2.22
 pydantic==2.11.7
 pydantic_core==2.33.2
